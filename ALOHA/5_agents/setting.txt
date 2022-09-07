@@ -1,0 +1,6 @@
+3 agents
+idle = observation 0
+collision reward = 0
+initial packets of agents = 4000
+1 packet = 5 bits
+state = [20*3]
