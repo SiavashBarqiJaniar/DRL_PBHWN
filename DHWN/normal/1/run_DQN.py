@@ -1,3 +1,5 @@
+### Created by Siavash Barqi Janiar, https://scholar.google.com/citations?user=KQ82xw4AAAAJ&hl=en
+
 from environment import ENVIRONMENT
 from agent import Agent
 from DQN_brain import DQN
